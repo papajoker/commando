@@ -1,0 +1,14 @@
+{
+    "name": "papajoker/commando",
+    "description": "Test de package commande",
+    "authors": [
+        {
+            "name": "papajoker"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "minimum-stability": "dev",
+	"target-dir": "../public/assets/test"
+}
