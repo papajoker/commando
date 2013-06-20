@@ -10,5 +10,5 @@
         "php": ">=5.3.0"
     },
     "minimum-stability": "dev",
-	"target-dir": "../public/assets/test"
+	"target-dir": "/public/assets/test"
 }
